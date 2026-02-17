@@ -17,9 +17,9 @@ public class Primitive {
         System.out.println("short : "+c);
         System.out.println("byte : "+d);
         System.out.println("float : "+e);
-        System.out.println("double : "+f);
+        System.out.println("double :"+f);
         System.out.println("char : "+g);
-        System.out.println("boolean : "+h);
+        System.out.println("boolean:"+h);
 
     }
 }
