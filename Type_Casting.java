@@ -9,8 +9,8 @@ public class Type_Casting {
         long l = 85256L;
         double d = 5.521;
 
-        double equatuion = (i*b) + (f+c) - (l/s) /d ;
+        double equation = (i*b) + (f+c) - (l/s) /d ;
         System.out.println((i*b) +"  "+ (f+c) +"  "+ (l/s) +"  " + d);
-        System.out.println(equatuion);
+        System.out.println(equation);
     }
 }
